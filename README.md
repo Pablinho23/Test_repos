@@ -6,3 +6,4 @@ After years, it's still true...
 
 #test comment
 #FIX README
+#Conflict remote
